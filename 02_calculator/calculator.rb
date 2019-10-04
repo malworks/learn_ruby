@@ -21,3 +21,4 @@ end
 def multiply(*args)
   args.reduce(:*)
 end
+
